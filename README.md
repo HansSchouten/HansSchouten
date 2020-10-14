@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Hans Schouten
+
+- 🚀 Currently building a platform to deliver and maintain complex travel related websites
+- 💬 Ask me about advanced search functionality, data processing, pagebuilders, travel websites
+- 📫 How to reach me: https://www.falcotravel.com/en/contact
 
 <!--
 **HansSchouten/HansSchouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
