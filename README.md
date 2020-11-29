@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hans Schouten
 
 - 🚀 Currently working on a platform to deliver and maintain complex travel related websites
-- 💬 Feel free to ask about advanced search, data processing, pagebuilders or travel websites
+- 💬 Feel free to ask about advanced search, data processing, GIS, geo visualisation, pagebuilders or travel websites
 - 📫 How to reach me: https://www.falcotravel.com/en/contact
 
 <!--
