@@ -4,7 +4,7 @@
 - 💬 Feel free to ask about advanced search, data processing, GIS, geo visualisation, (dynamic) page builders or travel websites
 - 📫 How to reach me: https://www.falcotravel.com/en/contact
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansschouten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![HansSchouten's github stats](https://github-readme-stats.vercel.app/api?username=hansschouten&hide=contribs&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansschouten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HansSchouten/HansSchouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
