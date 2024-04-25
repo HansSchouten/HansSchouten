@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hans Schouten
 
 - 🚀 Currently working on a platform to deliver and maintain complex websites for the travel industry
-- 🐦 Enjoying nature and developing [app.faunamap.nl](https://app.faunamap.nl/) / [Android app](https://play.google.com/store/apps/details?id=org.cordova.faunamap.app) to efficiently track large numbers of wildlife observations
+- 🐦 Enjoying nature and developing [app.faunamap.nl](https://app.faunamap.nl/) / [FaunaMap app](https://play.google.com/store/apps/details?id=org.cordova.faunamap.app) to efficiently track large numbers of wildlife observations
 - 💬 Feel free to ask about advanced search, data processing, GIS, geo visualisation, (dynamic) page builders or travel websites
 - 📫 How to reach me: https://www.falcotravel.com/contact
 
