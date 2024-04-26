@@ -3,7 +3,7 @@
 - 🚀 Currently working on a platform to deliver and maintain complex websites for the travel industry
 - 🐦 Enjoying nature and developing [app.faunamap.nl](https://www.faunamap.nl/) / [FaunaMap app](https://play.google.com/store/apps/details?id=org.cordova.faunamap.app) to efficiently track large numbers of wildlife observations
 - 💬 Feel free to ask about advanced search, data processing, GIS, geo visualisation, (dynamic) page builders or travel websites
-- 📫 How to reach me: https://www.falcotravel.com/contact
+- 📫 How to reach me: [www.falcosolutions.nl/contact](https://www.falcosolutions.nl/contact)
 
 <!--
 **HansSchouten/HansSchouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
